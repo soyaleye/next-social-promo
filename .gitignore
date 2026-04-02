@@ -5,3 +5,15 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# AI tool config
+.agents/
+.claude/
+.cline/
+.codex/
+.continue/
+.factory/
+.gemini/
+.github/
+.opencode/
+.windsurf/
